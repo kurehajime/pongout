@@ -3,7 +3,7 @@
 Let's Play  
 https://kurehajime.github.io/pongout/
 
-[![ss](https://raw.githubusercontent.com/kurehajime/game-off-2016/master/assets/ss.png)](https://kurehajime.github.io/pongout/)
+[![ss](https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif)](https://kurehajime.github.io/pongout/)
 
 
 made by [kurehajime](https://github.com/kurehajime)
