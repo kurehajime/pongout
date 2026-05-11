@@ -1,0 +1,18 @@
+version: 2
+
+multi-ecosystem-groups:
+  dependency-updates:
+    schedule:
+      interval: "weekly"
+
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    patterns:
+      - "*"
+    multi-ecosystem-group: "dependency-updates"
+    groups:
+      all-github-actions-security-updates:
+        applies-to: "security-updates"
+        patterns:
+          - "*"
